@@ -1,0 +1,22 @@
+{"link":"/enrollment-management/finaid/students/cost-of-attendance.html","name":"Cost of Attendance"}
+{"link":"/enrollment-management/admission/graduate/index.html","name":"Graduate Admission"}
+{"link":"/enrollment-management/finaid/index.html","name":"Financial Aid"}
+{"link":"/academicaffairssupport/oisss/index.html","name":"International"}
+{"link":"/enrollment-management/veterans/index.html","name":"Military &amp; Veteran Resource Center"}
+{"link":"/rellis/index.html","name":"RELLIS"}
+{"link":"/enrollment-management/scholarships/index.html","name":"Scholarships"}
+{"link":"/enrollment-management/admission/index.html","name":"Undergraduate Admission"}
+
+{"link":"/resources/index.html","name":"A - Z Index"}
+{"link":"/msub/bookstore/index.html","name":"Bookstore"}
+{"link":"/finance/financial-services/business-services/index.html","name":"Business Services"}
+{"link":"/maps/index.html","name":"Campus Maps and Permits"}
+{"link":"/shw/drc/index.html","name":"Disability Resource Center"}
+{"link":"/finance/employee-services/index.html","name":"Employee Services"}
+{"link":"/finance/index.html","name":"Finance / Financial Services"}
+{"link":"/finance/its/index.html","name":"Information Technology Services (ITS)"}
+{"link":"/finance/compliance/index.html","name":"Office of Compliance"}
+{"link":"/registrar/index.html","name":"Office of the Registrar"}
+{"link":"https://as2.tamuk.edu:9203/PROD/bwpkedir.P_DisplayDirectory","name":"Staff/Faculty Directory"}
+{"link":"/studentsuccess/repository/index.html","name":"Student and Community Resources Repository"}
+{"link":"/upd/index.html","name":"University Police Department"}

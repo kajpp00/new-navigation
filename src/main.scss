@@ -1,0 +1,13 @@
+$primary: #003399;
+$secondary:#054faa;
+@import "~bootstrap/scss/bootstrap";
+@import "/scss/tamuk-main.scss";
+@import "/scss/nav.scss";
+.jumbotron {
+  color: white;
+  background-image: url("https://picsum.photos/1920/1080?random=1");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
